@@ -1,4 +1,4 @@
-Here you will find a simple CRUD Operations Using Angular js Node.js as a server
+Here you will find  Angular js Node.js as a server
 
 1.npm insatll
 
